@@ -1,0 +1,1 @@
+count(doc("books.xml")//book[contains(author,"Rajati")])
